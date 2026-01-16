@@ -1,5 +1,3 @@
-Anggota kelompok
+proyek Inventory Management System ini bertujuan untuk membantu proses pengelolaan persediaan barang agar lebih terstruktur, akurat, dan efisien. Sistem ini dirancang untuk mencatat data barang masuk dan barang keluar, memantau jumlah stok secara real-time, serta menyimpan informasi penting seperti nama barang, kategori, jumlah, dan waktu transaksi.
 
-Muhammad Irfan Pratama (25031554135)
-Renaldo Agatha Sugiono (25031554211)
-Muhammad Zaidan Alfaizi(25031554130)
+Dengan adanya sistem ini, pengguna dapat mengurangi kesalahan pencatatan yang sering terjadi pada pengelolaan manual, mempercepat proses pencarian data, serta meningkatkan kontrol terhadap ketersediaan barang. Inventory Management System juga membantu pengambilan keputusan, misalnya dalam menentukan kapan harus melakukan pengadaan ulang stok.
